@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Menubar from "../components/Menubar";
 import {  SiPortainer ,SiGrafana ,SiNginxproxymanager, SiKeycloak ,SiTraefikproxy} from "react-icons/si";
 
 function Infra() {
@@ -9,7 +9,7 @@ function Infra() {
 
 <div className='second-container'>
 
-{/* <Menubar /> */}
+<Menubar />
 <div className='tools'>
 
 

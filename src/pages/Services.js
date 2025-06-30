@@ -3,7 +3,7 @@ import React from 'react'
 import { SiInfluxdb ,SiUml } from "react-icons/si";
 import { PiWebhooksLogoFill } from "react-icons/pi";
 import { IoBarChartOutline } from "react-icons/io5";
-
+import Menubar from "../components/Menubar";
 function Services() {
   return (
    <div className="container">
@@ -11,7 +11,7 @@ function Services() {
 
 <div className='second-container'>
 
-{/* <Menubar /> */}
+<Menubar />
 <div className='tools'>
 
 

@@ -12,7 +12,7 @@ background-color: black;
 .container{
 width: 100%;
   /* background-image: linear-gradient(to bottom right, black,#9d0208); */
-background-color: #a3cef1;
+background-color: #fadde1;
 /* border: 15px solid #9d0208; */
 border-radius: 25px;
 margin-top: 25px;
@@ -94,7 +94,7 @@ gap: 40px;
 .tool-boxes{
 width: 170px;
 height: 200px;
-background-color: #ffdd00;
+background-color: #f5ebe0;
 margin: 10px;
 border-radius: 25px;
 text-align: center;

@@ -5,7 +5,7 @@ import { BiTask } from "react-icons/bi";
 import { SiThunderbird} from "react-icons/si";
 import { CgWebsite } from "react-icons/cg";
 import { FaGitlab } from "react-icons/fa6";
-
+import Menubar from "../components/Menubar";
 
 function Public() {
   return (
@@ -15,7 +15,7 @@ function Public() {
 
 <div className='second-container'>
 
-{/* <Menubar /> */}
+<Menubar />
 <div className='tools'>
 
 <div className="tool-boxes" onClick={()=>window.open("https://zulip.aumble.com","_blank")}>
