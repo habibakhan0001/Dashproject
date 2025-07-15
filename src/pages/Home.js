@@ -12,7 +12,7 @@ import { IoBarChartOutline } from "react-icons/io5";
 function Home() {
   return (
     <div className="container">
-<p>Welcome To My Toolnest</p>
+<h1>Welcome To My Toolnest</h1>
 
 <div className='second-container'>
 
